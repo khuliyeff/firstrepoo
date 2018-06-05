@@ -1,0 +1,14 @@
+C:\Users\P206\source\repos\Home sell\Home sell\bin\Debug\Home sell.exe.config
+C:\Users\P206\source\repos\Home sell\Home sell\bin\Debug\Home sell.exe
+C:\Users\P206\source\repos\Home sell\Home sell\bin\Debug\Home sell.pdb
+C:\Users\P206\source\repos\Home sell\Home sell\bin\Debug\EntityFramework.dll
+C:\Users\P206\source\repos\Home sell\Home sell\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\P206\source\repos\Home sell\Home sell\bin\Debug\EntityFramework.xml
+C:\Users\P206\source\repos\Home sell\Home sell\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\P206\source\repos\Home sell\Home sell\obj\Debug\Home sell.csprojResolveAssemblyReference.cache
+C:\Users\P206\source\repos\Home sell\Home sell\obj\Debug\Home_sell.Properties.Resources.resources
+C:\Users\P206\source\repos\Home sell\Home sell\obj\Debug\Home sell.csproj.GenerateResource.Cache
+C:\Users\P206\source\repos\Home sell\Home sell\obj\Debug\Home sell.csproj.CoreCompileInputs.cache
+C:\Users\P206\source\repos\Home sell\Home sell\obj\Debug\Home sell.exe
+C:\Users\P206\source\repos\Home sell\Home sell\obj\Debug\Home sell.pdb
+C:\Users\P206\source\repos\Home sell\Home sell\obj\Debug\Home_sell.Form1.resources
